@@ -19,14 +19,14 @@ GET https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2020-01-01
   "media_type": "image"
 }
 ```
-Field Guide
+## Field Guide
 date: Which day the image belongs to.
 title: Human-friendly title of the picture.
 url: Direct link to image or video.
 explanation: Plain-English description.
 media_type: image or video.
 
-Errors
+## Errors
 403 – Bad or missing api_key.
 400 – Wrong date format.
 429 – Too many requests (rate limit).
