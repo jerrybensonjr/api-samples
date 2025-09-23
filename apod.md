@@ -18,6 +18,7 @@ GET https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2020-01-01
   "explanation": "Short description...",
   "media_type": "image"
 }
+```
 Field Guide
 date: Which day the image belongs to.
 title: Human-friendly title of the picture.
