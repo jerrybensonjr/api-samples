@@ -19,6 +19,18 @@ GET https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2020-01-01
   "media_type": "image"
 }
 ```
+## Example Request in Postman
+Here’s what a successful request looks like in Postman:
+
+![Postman Example](images/postman-apod.png)
+
+---
+
+## Example Error Response (400)
+Here’s what happens when the request is malformed or the parameters are wrong:
+
+![400 Error Example](images/error-400.png)
+
 ## Field Guide
 - `date`: Which day the image belongs to.
 - `title`: Human-friendly title of the picture.
