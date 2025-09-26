@@ -8,7 +8,6 @@ Returns raw images taken by NASA’s Mars rovers. Supports queries by Martian so
 
 `GET https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos`
 
----
 ## Parameters
 
 | Name        | Type     | Required | Example             | Notes |
