@@ -1,5 +1,9 @@
 # API Documentation Practice Portfolio
 
+![Markdown](https://img.shields.io/badge/format-Markdown-blue)
+![Docs-as-Code](https://img.shields.io/badge/workflow-Docs--as--Code-green)
+![Status](https://img.shields.io/badge/status-In_Progress-yellow)
+
 This repository is my hands-on training ground for building API documentation in **Markdown** using tools like Postman, GitHub, and VS Code.  
 
 Each project is a practice exercise toward becoming proficient in technical writing for developer and API docs.
@@ -13,7 +17,7 @@ Each project is a practice exercise toward becoming proficient in technical writ
 
 ---
 
-## In Progress / Upcoming
+## In Progress and Upcoming
 - OpenWeather API  
 - OMDb (Movies) API  
 - Pokémon API  
