@@ -11,7 +11,7 @@ Each project is a practice exercise toward becoming proficient in technical writ
 ---
 
 ## Completed Projects
-- [NASA Astronomy Picture of the Day (APOD)](https://github.com/jerrybensonjr/api-samples/blob/main/apod.md)
+- [NASA Astronomy Picture of the Day (APOD)](https://github.com/jerrybensonjr/api-samples/blob/main/nasa_apod_docs.md)
 - [NASA Mars Rover Photos](https://github.com/jerrybensonjr/api-samples/blob/main/NASA_Mars_Rover_Photos_API.md)
 - [REST Countries](https://github.com/jerrybensonjr/api-samples/blob/main/Rest_Countries_API.md)
 
