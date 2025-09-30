@@ -578,7 +578,7 @@ This mock server setup is now ready to use for:
 
 ---
 
-**Doc Version:** 1.0 (Portfolio Sample — Tutorial)  
+**Doc Version:** 2.0 (Portfolio Sample — Tutorial)  
 **Maintainer:** Jerry Benson  
 **Last Updated:** September 2025
 
