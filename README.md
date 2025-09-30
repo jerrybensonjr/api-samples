@@ -16,6 +16,7 @@ Each project is a practice exercise toward becoming proficient in technical writ
 - [REST Countries](https://github.com/jerrybensonjr/api-samples/blob/main/Rest_Countries_API.md)
 - [OpenWeather](https://github.com/jerrybensonjr/api-samples/blob/main/OpenWeather_API_Docs.md)  
   ↳ Includes [fixtures](https://github.com/jerrybensonjr/api-samples/tree/main/fixtures) for mock testing without a paid API key
+- [Postman Mock Server Tutorial](https://github.com/jerrybensonjr/api-samples/blob/main/Postman-Mock-Server_Tutorial.md)
 
 ---
 
